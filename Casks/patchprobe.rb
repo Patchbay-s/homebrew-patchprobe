@@ -2,7 +2,7 @@ cask "patchprobe" do
   version "1.0.0"
   sha256 "dbef77e4d4f5acfa2f57e37a4d8a5841571f81ceac56c3d61ba810468e35437a"
 
-  url "https://github.com/Patchbay-s/PatchProbe/releases/download/v#{version}/PatchProbe_#{version}_aarch64.dmg"
+  url "https://github.com/Patchbay-s/PatchProbe/releases/download/v#{version}/PatchProbe_#{version}_macos-aarch64.dmg"
   name "PatchProbe"
   desc "Local network host and service scanner"
   homepage "https://github.com/Patchbay-s/PatchProbe"
